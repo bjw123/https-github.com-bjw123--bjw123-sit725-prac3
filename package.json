@@ -1,0 +1,9 @@
+{
+  "name": "https-github.com-bjw123--bjw123-sit725-prac3",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "*",
+    "jquery": "*",
+    "material-ui": "*"
+  }
+}
