@@ -1,9 +1,16 @@
 {
-  "name": "https-github.com-bjw123--bjw123-sit725-prac3",
+  "name": "untitled2",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "express": "*",
-    "jquery": "*",
-    "material-ui": "*"
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
   }
 }
